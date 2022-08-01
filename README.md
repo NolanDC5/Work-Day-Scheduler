@@ -1,2 +1,2 @@
 # Work-Day-Scheduler
-Deployed URL:
+Deployed URL: https://nolandc5.github.io/Work-Day-Scheduler/
